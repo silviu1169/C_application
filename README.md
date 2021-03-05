@@ -1,17 +1,7 @@
 # C_application
-C console  application for a store management.
+C console  application for an electronics store management.
 
-
-
-  Electronics Store
-  
-Create an application that allows you to manage the stock of products in an electronics store.
-
-Each product has a unique identifier, type (laptop, refrigerator, TV, etc.), manufacturer, model,
-
-price, quantity.
-
-The application allows:
+Application that allows you to manage the stock of products in an electronics store:
 
 a) Adding new products. If the product is already in stock, the quantity must be updated
 
