@@ -1,7 +1,7 @@
 # C_application
 C console  application for an electronics store management.
 
-Application that allows you to manage the stock of products in an electronics store:
+  Application that allows you to manage the stock of products in an electronics store:
 
 a) Adding new products. If the product is already in stock, the quantity must be updated
 
